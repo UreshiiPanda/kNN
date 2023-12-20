@@ -1,6 +1,6 @@
 # kNN
 
-### An comparison of different kNN algorithms written in Python
+### A comparison of different kNN algorithms written in Python
 
 
 
