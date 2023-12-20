@@ -59,9 +59,9 @@ This program can be run in a Jupyter Notebook via the steps below.
 
 4. Run the following in a shell to check your income predictions against the validator:
    1. 
-       ```sh
+      ```sh
           python3 predictions.py > income.test.predicted
-       ```
+      ```
    2. 
       ```sh
          cat income.test.predicted | python3 validate.py
