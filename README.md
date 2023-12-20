@@ -53,9 +53,9 @@ This program can be run in a Jupyter Notebook via the steps below.
 2. Open the project in a Jupyter Notebook and run each of the cells in graph.ipynb to view
    various results and also plot the results against each other. Note that there are comments
    indicating further directions for comparing 3 different kNN versions.
-     ```sh
-        Jupyter Lab
-     ```
+   ```sh
+       Jupyter Lab
+   ```
 
 4. Run the following in a shell to check your income predictions against the validator:
    1. 
